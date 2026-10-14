@@ -1,0 +1,6 @@
+{
+  "name": "기후 탐험대 - 6학년 기후별 옷입히기 체험관",
+  "description": "열대·건조·한대·고산 기후의 특징에 맞는 옷차림을 배우고 인형에게 직접 옷을 입혀보며 탐구하는 초등 6학년 사회과 인터랙티브 학습 공간입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
